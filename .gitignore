@@ -1,0 +1,14 @@
+# ignore these files
+
+# dependencies
+/node_modules
+/.php.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# macOS files
+.DS_Store
