@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sanjayvjacob.github.io/keeper-app-project",
+  "homepage": "https://sanjayvjacob.github.io/keeper-app-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
