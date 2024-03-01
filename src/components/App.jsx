@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Header />
-      {notes.map((noteItem) => (
+      {notes.map((noteItem) => ( //added ES6 arrow function to simplify function
       <Note
     key={noteItem.key}
     title={noteItem.title}
